@@ -1,3 +1,6 @@
+Live Demo: https://mdarshath007.github.io/Expense-Tracker/
+
+
 Built an Expense Tracker using HTML, CSS & JavaScript 
 
 Features:
@@ -9,9 +12,7 @@ Features:
 
 Tech: HTML | CSS | JavaScript
 
-Live Demo: https://mdarshath007.github.io/Expense-Tracker/
+Project Screenshot: ![Uploading Expense-Tracker Screenshot.png…]()
 
-Project Screenshot
 
-![Uploading Expense-Tracker Screenshot.png…]()
 
