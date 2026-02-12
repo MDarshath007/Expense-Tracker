@@ -1,5 +1,5 @@
-built an Expense Tracker using HTML, CSS & JavaScript 
-
+**Built an Expense Tracker using HTML, CSS & JavaScript 
+**
 Features:
 
  ✔️ Add income & expenses
