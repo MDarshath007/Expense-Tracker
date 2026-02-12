@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ExpenseTracker</title>
+    <link rel="icon" href="RupeesLogo.png">
+    <link rel="stylesheet" href="ExpenseTracker.css">
+</head>
+<body>
+    <div class="screen">
+        <div class="tracker-box">
+            <h2 class="title">Track Your Expeneses Here!</h2>
+            <div class="balance">Your Balance: <p id="balance" class="amount">0.0₹</p>
+            </div>
+            <div class="income">Income: <p id="income" class="amount">+0.0₹</p>
+            </div>
+            <div class="expense">Expenses:<p id="expense" class="amount">-0.0₹</p>
+            </div>
+            <h3 class="title2">Transactions</h3>
+            <ul class="list">
+            </ul>
+            <h3 class="title3">Add new transaction</h3>
+            <ul class="list">
+                <li class="input"><input placeholder="Enter Transaction Name" type="text" id="tr-name"></li>
+                <li class="input"><input placeholder="Enter Transaction Amount" type="number" id="tr-amount"></li>
+                <li class="add-btn">Add Transaction</li>
+            </ul>
+        </div>
+    </div>
+    <script src="ExpenseTracker.js"></script>
+</body>
+</html>
